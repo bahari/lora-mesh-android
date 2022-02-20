@@ -1,0 +1,70 @@
+/*
+ext {
+    ndkVersion = ndkVersion
+    ndkVersion1 = ndkVersion
+    ndkVersion = ndkVersion
+}// Top-level build file where you can add configuration options common to all sub-projects/modules.
+*/
+buildscript {
+    ext.kotlin_version = '1.6.0'
+    //ext.kotlin_version = '1.4.32'
+    ext.coroutines_version = "1.5.2"
+
+    repositories {
+        google()
+        // jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.2'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "org.jetbrains.kotlin:kotlin-serialization:$kotlin_version"
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+
+        // Add the Crashlytics Gradle plugin.
+        // Check that you have the Google Services Gradle plugin v4.3.2 or later
+        // (if not, add it).
+        classpath 'com.google.gms:google-services:4.3.10'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.8.0'
+
+        // protobuf plugin - docs here https://github.com/google/protobuf-gradle-plugin
+        classpath 'com.google.protobuf:protobuf-gradle-plugin:0.8.15'
+
+        //classpath "app.brant:amazonappstorepublisher:0.1.0"
+        classpath 'com.github.triplet.gradle:play-publisher:2.8.0'
+
+        // for unit testing https://github.com/bjoernQ/unmock-plugin
+        classpath 'com.github.bjoernq:unmockplugin:0.7.6'
+    }
+}
+
+allprojects {
+    repositories {
+        maven {
+            // Per https://docs.mapbox.com/android/maps/guides/install/ we now need to signin to download mapbox lib
+            url 'https://api.mapbox.com/downloads/v2/releases/maven'
+            authentication {
+                basic(BasicAuthentication)
+            }
+            credentials {
+                // Do not change the username below.
+                // This should always be `mapbox` (not your username).
+                username = 'mapbox'
+                //username = 'baharinizam'
+                // Use the secret token you stored in gradle.properties as the password
+                password = project.properties['MAPBOX_DOWNLOADS_TOKEN'] ?: ""
+            }
+        }
+        google()
+        mavenCentral()
+        // jcenter()
+        maven { url 'https://jitpack.io' }
+        //maven { url "https://plugins.gradle.org/m2/" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
