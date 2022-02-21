@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_adapter_packet_layout.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/adapter_packet_layout.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_nc2plus_round.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_nc2plus_round.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_lock_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_lock_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher2.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_channel_fragment.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/channel_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_cloud_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_cloud_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_launcher2_background.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_launcher2_background.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_person_pin_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_person_pin_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_person_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_person_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_map_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_map_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher2.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-mdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_nc2plus_foreground.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_nc2plus_foreground.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_nc2plus_foreground.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xhdpi/ic_launcher_nc2plus_foreground.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_map_view.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/map_view.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_navigation.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/navigation.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_icon_novect.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-mdpi/app_icon_novect.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_contactless_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_contactless_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_nc2plus_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-mdpi/ic_launcher_nc2plus_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_icon.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_app_icon_novect.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-hdpi/app_icon_novect.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_nc2plus.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_nc2plus.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_nc2plus_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xhdpi/ic_launcher_nc2plus_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_battery_full_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_battery_full_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-mdpi/ic_launcher_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_people_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_people_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher2_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher2_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-hdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_signal_level.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/signal_level.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher2.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_settings_fragment.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/settings_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_map_not_allowed.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/map_not_allowed.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher2_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-nodpi_qrcode.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-nodpi/qrcode.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_nc2plus_foreground.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-hdpi/ic_launcher_nc2plus_foreground.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_message_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_message_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_nodelist_fragment.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/nodelist_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_stat_name_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-xxhdpi/ic_stat_name_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_cloud_upload_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_cloud_upload_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_dropdown_menu_popup_item.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/dropdown_menu_popup_item.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/color_tab_color_selector.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/color/tab_color_selector.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_adapter_message_layout.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/adapter_message_layout.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_antenna_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_antenna_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_nc2plus_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_nc2plus_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_cloud_off.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/cloud_off.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher2_round.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher2_round.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xhdpi/ic_launcher_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_icon_novect.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-xxhdpi/app_icon_novect.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_nc2plus_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher_nc2plus_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher2_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xhdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_launcher_nc2plus_background.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_launcher_nc2plus_background.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher2.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-hdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_stat_name_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-hdpi/ic_stat_name_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_baseline_settings_input_antenna_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_baseline_settings_input_antenna_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-hdpi_app_icon.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_stat_name_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-mdpi/ic_stat_name_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_nc2plus_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-hdpi/ic_launcher_nc2plus_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_advanced_settings.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/advanced_settings.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher2.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher2.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher2.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_settings_applications_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_settings_applications_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_help.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/help.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_power_plug_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_power_plug_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_app_icon.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_stat_name_nc2plus.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-anydpi-v24/ic_stat_name_nc2plus.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_person.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/person.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-hdpi/ic_launcher_nc2plus.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_sl_lock_24dp.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/sl_lock_24dp.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_cloud_on.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/cloud_on.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_lock_open_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_lock_open_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_debug_fragment.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/debug_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_messages_fragment.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/messages_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher2_round.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-mdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_public_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_public_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_send_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_send_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/layout_adapter_node_layout.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/adapter_node_layout.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_nc2plus_foreground.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-mdpi/ic_launcher_nc2plus_foreground.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-mdpi_app_icon.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_app_icon_novect.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-xhdpi/app_icon_novect.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_twotone_share_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_twotone_share_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_nc2plus_foreground.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher_nc2plus_foreground.png"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-anydpi_app_icon.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-anydpi/app_icon.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_ic_launcher2_foreground.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/ic_launcher2_foreground.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable_cloud_download_outline_24.xml.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable/cloud_download_outline_24.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_name_nc2plus.png.flat",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/drawable-xhdpi/ic_stat_name_nc2plus.png"
+    }
+]

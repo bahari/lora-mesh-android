@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,161,296",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "106,156,291,381"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1798,1854,1904,2039",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "1849,1899,2034,2124"
+                    }
+                },
+                {
+                    "source": "/home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,177,331,407,480,553,638,725,841,944,1094,1208,1345",
+                        "endColumns": "121,153,75,72,72,84,86,115,102,149,113,136,68",
+                        "endOffsets": "172,326,402,475,548,633,720,836,939,1089,1203,1340,1409"
+                    }
+                },
+                {
+                    "source": "/home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,135,217,289,361",
+                        "endColumns": "79,81,71,71,77",
+                        "endOffsets": "130,212,284,356,434"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1414,1494,1576,1648,1720",
+                        "endColumns": "79,81,71,71,77",
+                        "endOffsets": "1489,1571,1643,1715,1793"
+                    }
+                }
+            ]
+        }
+    ]
+}

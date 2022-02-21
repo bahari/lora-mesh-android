@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "/home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/res/values-id/values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,135,217,289,361",
+                        "endColumns": "79,81,71,71,77",
+                        "endOffsets": "130,212,284,356,434"
+                    }
+                },
+                {
+                    "source": "/home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/res/values-id/values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,293",
+                        "endColumns": "58,46,131,108",
+                        "endOffsets": "109,156,288,397"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "439,498,545,677",
+                        "endColumns": "58,46,131,108",
+                        "endOffsets": "493,540,672,781"
+                    }
+                }
+            ]
+        }
+    ]
+}

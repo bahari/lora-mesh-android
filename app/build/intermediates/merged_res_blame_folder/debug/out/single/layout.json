@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/settings_fragment.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/settings_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/map_not_allowed.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/map_not_allowed.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/map_view.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/map_view.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dropdown_menu_popup_item.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/dropdown_menu_popup_item.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/channel_fragment.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/channel_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/advanced_settings.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/advanced_settings.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/messages_fragment.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/messages_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/debug_fragment.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/debug_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_packet_layout.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/adapter_packet_layout.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_node_layout.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/adapter_node_layout.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nodelist_fragment.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/nodelist_fragment.xml"
+    },
+    {
+        "merged": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/adapter_message_layout.xml",
+        "source": "/home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/res/layout/adapter_message_layout.xml"
+    }
+]
