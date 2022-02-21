@@ -1,0 +1,217 @@
+com/geeksville/mesh/DeviceOnly.java
+ com.geeksville.mesh.DeviceOnly
+ com.geeksville.mesh.DeviceOnly$1
+ com.geeksville.mesh.DeviceOnly$ChannelFile
+ com.geeksville.mesh.DeviceOnly$ChannelFile$1
+ com.geeksville.mesh.DeviceOnly$ChannelFile$Builder
+ com.geeksville.mesh.DeviceOnly$ChannelFileOrBuilder
+ com.geeksville.mesh.DeviceOnly$DeviceState
+ com.geeksville.mesh.DeviceOnly$DeviceState$1
+ com.geeksville.mesh.DeviceOnly$DeviceState$Builder
+ com.geeksville.mesh.DeviceOnly$DeviceStateOrBuilder
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfig
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfig$1
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfig$Builder
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfig$LegacyPreferences
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfig$LegacyPreferences$1
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfig$LegacyPreferences$Builder
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfig$LegacyPreferencesOrBuilder
+ com.geeksville.mesh.DeviceOnly$LegacyRadioConfigOrBuilder
+com/geeksville/mesh/databinding/DebugFragmentBinding.java
+ com.geeksville.mesh.databinding.DebugFragmentBinding
+com/geeksville/mesh/AppOnlyProtos.java
+ com.geeksville.mesh.AppOnlyProtos
+ com.geeksville.mesh.AppOnlyProtos$1
+ com.geeksville.mesh.AppOnlyProtos$ChannelSet
+ com.geeksville.mesh.AppOnlyProtos$ChannelSet$1
+ com.geeksville.mesh.AppOnlyProtos$ChannelSet$Builder
+ com.geeksville.mesh.AppOnlyProtos$ChannelSetOrBuilder
+com/geeksville/mesh/database/MeshtasticDatabase_Impl.java
+ com.geeksville.mesh.database.MeshtasticDatabase_Impl
+ com.geeksville.mesh.database.MeshtasticDatabase_Impl$1
+com/geeksville/mesh/Portnums.java
+ com.geeksville.mesh.Portnums
+ com.geeksville.mesh.Portnums$PortNum
+ com.geeksville.mesh.Portnums$PortNum$1
+com/geeksville/mesh/MeshProtos.java
+ com.geeksville.mesh.MeshProtos
+ com.geeksville.mesh.MeshProtos$1
+ com.geeksville.mesh.MeshProtos$Constants
+ com.geeksville.mesh.MeshProtos$Constants$1
+ com.geeksville.mesh.MeshProtos$CriticalErrorCode
+ com.geeksville.mesh.MeshProtos$CriticalErrorCode$1
+ com.geeksville.mesh.MeshProtos$Data
+ com.geeksville.mesh.MeshProtos$Data$1
+ com.geeksville.mesh.MeshProtos$Data$Builder
+ com.geeksville.mesh.MeshProtos$DataOrBuilder
+ com.geeksville.mesh.MeshProtos$FromRadio
+ com.geeksville.mesh.MeshProtos$FromRadio$1
+ com.geeksville.mesh.MeshProtos$FromRadio$Builder
+ com.geeksville.mesh.MeshProtos$FromRadio$PayloadVariantCase
+ com.geeksville.mesh.MeshProtos$FromRadioOrBuilder
+ com.geeksville.mesh.MeshProtos$HardwareModel
+ com.geeksville.mesh.MeshProtos$HardwareModel$1
+ com.geeksville.mesh.MeshProtos$LogRecord
+ com.geeksville.mesh.MeshProtos$LogRecord$1
+ com.geeksville.mesh.MeshProtos$LogRecord$Builder
+ com.geeksville.mesh.MeshProtos$LogRecord$Level
+ com.geeksville.mesh.MeshProtos$LogRecord$Level$1
+ com.geeksville.mesh.MeshProtos$LogRecordOrBuilder
+ com.geeksville.mesh.MeshProtos$MeshPacket
+ com.geeksville.mesh.MeshProtos$MeshPacket$1
+ com.geeksville.mesh.MeshProtos$MeshPacket$Builder
+ com.geeksville.mesh.MeshProtos$MeshPacket$PayloadVariantCase
+ com.geeksville.mesh.MeshProtos$MeshPacket$Priority
+ com.geeksville.mesh.MeshProtos$MeshPacket$Priority$1
+ com.geeksville.mesh.MeshProtos$MeshPacketOrBuilder
+ com.geeksville.mesh.MeshProtos$MyNodeInfo
+ com.geeksville.mesh.MeshProtos$MyNodeInfo$1
+ com.geeksville.mesh.MeshProtos$MyNodeInfo$Builder
+ com.geeksville.mesh.MeshProtos$MyNodeInfoOrBuilder
+ com.geeksville.mesh.MeshProtos$NodeInfo
+ com.geeksville.mesh.MeshProtos$NodeInfo$1
+ com.geeksville.mesh.MeshProtos$NodeInfo$Builder
+ com.geeksville.mesh.MeshProtos$NodeInfoOrBuilder
+ com.geeksville.mesh.MeshProtos$Position
+ com.geeksville.mesh.MeshProtos$Position$1
+ com.geeksville.mesh.MeshProtos$Position$Builder
+ com.geeksville.mesh.MeshProtos$PositionOrBuilder
+ com.geeksville.mesh.MeshProtos$RouteDiscovery
+ com.geeksville.mesh.MeshProtos$RouteDiscovery$1
+ com.geeksville.mesh.MeshProtos$RouteDiscovery$Builder
+ com.geeksville.mesh.MeshProtos$RouteDiscoveryOrBuilder
+ com.geeksville.mesh.MeshProtos$Routing
+ com.geeksville.mesh.MeshProtos$Routing$1
+ com.geeksville.mesh.MeshProtos$Routing$Builder
+ com.geeksville.mesh.MeshProtos$Routing$Error
+ com.geeksville.mesh.MeshProtos$Routing$Error$1
+ com.geeksville.mesh.MeshProtos$Routing$VariantCase
+ com.geeksville.mesh.MeshProtos$RoutingOrBuilder
+ com.geeksville.mesh.MeshProtos$ToRadio
+ com.geeksville.mesh.MeshProtos$ToRadio$1
+ com.geeksville.mesh.MeshProtos$ToRadio$Builder
+ com.geeksville.mesh.MeshProtos$ToRadio$PayloadVariantCase
+ com.geeksville.mesh.MeshProtos$ToRadio$PeerInfo
+ com.geeksville.mesh.MeshProtos$ToRadio$PeerInfo$1
+ com.geeksville.mesh.MeshProtos$ToRadio$PeerInfo$Builder
+ com.geeksville.mesh.MeshProtos$ToRadio$PeerInfoOrBuilder
+ com.geeksville.mesh.MeshProtos$ToRadioOrBuilder
+ com.geeksville.mesh.MeshProtos$User
+ com.geeksville.mesh.MeshProtos$User$1
+ com.geeksville.mesh.MeshProtos$User$Builder
+ com.geeksville.mesh.MeshProtos$UserOrBuilder
+com/geeksville/mesh/RadioConfigProtos.java
+ com.geeksville.mesh.RadioConfigProtos
+ com.geeksville.mesh.RadioConfigProtos$1
+ com.geeksville.mesh.RadioConfigProtos$ChargeCurrent
+ com.geeksville.mesh.RadioConfigProtos$ChargeCurrent$1
+ com.geeksville.mesh.RadioConfigProtos$GpsOperation
+ com.geeksville.mesh.RadioConfigProtos$GpsOperation$1
+ com.geeksville.mesh.RadioConfigProtos$LocationSharing
+ com.geeksville.mesh.RadioConfigProtos$LocationSharing$1
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$1
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$Builder
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$UserPreferences
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$UserPreferences$1
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$UserPreferences$Builder
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$UserPreferences$EnvironmentalMeasurementSensorType
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$UserPreferences$EnvironmentalMeasurementSensorType$1
+ com.geeksville.mesh.RadioConfigProtos$RadioConfig$UserPreferencesOrBuilder
+ com.geeksville.mesh.RadioConfigProtos$RadioConfigOrBuilder
+ com.geeksville.mesh.RadioConfigProtos$RegionCode
+ com.geeksville.mesh.RadioConfigProtos$RegionCode$1
+com/geeksville/mesh/IRadioInterfaceService.java
+ com.geeksville.mesh.IRadioInterfaceService
+ com.geeksville.mesh.IRadioInterfaceService$Default
+ com.geeksville.mesh.IRadioInterfaceService$Stub
+ com.geeksville.mesh.IRadioInterfaceService$Stub$Proxy
+Future.java
+ Future
+ Future$1
+ Future$ManufacturingData
+ Future$ManufacturingData$1
+ Future$ManufacturingData$Builder
+ Future$ManufacturingDataOrBuilder
+com/geeksville/mesh/databinding/AdapterMessageLayoutBinding.java
+ com.geeksville.mesh.databinding.AdapterMessageLayoutBinding
+com/geeksville/mesh/RemoteHardware.java
+ com.geeksville.mesh.RemoteHardware
+ com.geeksville.mesh.RemoteHardware$1
+ com.geeksville.mesh.RemoteHardware$HardwareMessage
+ com.geeksville.mesh.RemoteHardware$HardwareMessage$1
+ com.geeksville.mesh.RemoteHardware$HardwareMessage$Builder
+ com.geeksville.mesh.RemoteHardware$HardwareMessage$Type
+ com.geeksville.mesh.RemoteHardware$HardwareMessage$Type$1
+ com.geeksville.mesh.RemoteHardware$HardwareMessageOrBuilder
+com/geeksville/mesh/databinding/DropdownMenuPopupItemBinding.java
+ com.geeksville.mesh.databinding.DropdownMenuPopupItemBinding
+com/geeksville/mesh/BuildConfig.java
+ com.geeksville.mesh.BuildConfig
+com/geeksville/mesh/MQTTProtos.java
+ com.geeksville.mesh.MQTTProtos
+ com.geeksville.mesh.MQTTProtos$1
+ com.geeksville.mesh.MQTTProtos$ServiceEnvelope
+ com.geeksville.mesh.MQTTProtos$ServiceEnvelope$1
+ com.geeksville.mesh.MQTTProtos$ServiceEnvelope$Builder
+ com.geeksville.mesh.MQTTProtos$ServiceEnvelopeOrBuilder
+com/geeksville/mesh/AdminProtos.java
+ com.geeksville.mesh.AdminProtos
+ com.geeksville.mesh.AdminProtos$1
+ com.geeksville.mesh.AdminProtos$AdminMessage
+ com.geeksville.mesh.AdminProtos$AdminMessage$1
+ com.geeksville.mesh.AdminProtos$AdminMessage$Builder
+ com.geeksville.mesh.AdminProtos$AdminMessage$VariantCase
+ com.geeksville.mesh.AdminProtos$AdminMessageOrBuilder
+com/geeksville/mesh/IMeshService.java
+ com.geeksville.mesh.IMeshService
+ com.geeksville.mesh.IMeshService$Default
+ com.geeksville.mesh.IMeshService$Stub
+ com.geeksville.mesh.IMeshService$Stub$Proxy
+com/geeksville/mesh/ChannelProtos.java
+ com.geeksville.mesh.ChannelProtos
+ com.geeksville.mesh.ChannelProtos$1
+ com.geeksville.mesh.ChannelProtos$Channel
+ com.geeksville.mesh.ChannelProtos$Channel$1
+ com.geeksville.mesh.ChannelProtos$Channel$Builder
+ com.geeksville.mesh.ChannelProtos$Channel$Role
+ com.geeksville.mesh.ChannelProtos$Channel$Role$1
+ com.geeksville.mesh.ChannelProtos$ChannelOrBuilder
+ com.geeksville.mesh.ChannelProtos$ChannelSettings
+ com.geeksville.mesh.ChannelProtos$ChannelSettings$1
+ com.geeksville.mesh.ChannelProtos$ChannelSettings$Builder
+ com.geeksville.mesh.ChannelProtos$ChannelSettings$ModemConfig
+ com.geeksville.mesh.ChannelProtos$ChannelSettings$ModemConfig$1
+ com.geeksville.mesh.ChannelProtos$ChannelSettingsOrBuilder
+EnvironmentalMeasurementOuterClass.java
+ EnvironmentalMeasurementOuterClass
+ EnvironmentalMeasurementOuterClass$1
+ EnvironmentalMeasurementOuterClass$EnvironmentalMeasurement
+ EnvironmentalMeasurementOuterClass$EnvironmentalMeasurement$1
+ EnvironmentalMeasurementOuterClass$EnvironmentalMeasurement$Builder
+ EnvironmentalMeasurementOuterClass$EnvironmentalMeasurementOrBuilder
+com/geeksville/mesh/databinding/MapNotAllowedBinding.java
+ com.geeksville.mesh.databinding.MapNotAllowedBinding
+com/geeksville/mesh/databinding/MapViewBinding.java
+ com.geeksville.mesh.databinding.MapViewBinding
+com/geeksville/mesh/databinding/AdvancedSettingsBinding.java
+ com.geeksville.mesh.databinding.AdvancedSettingsBinding
+com/geeksville/mesh/databinding/NodelistFragmentBinding.java
+ com.geeksville.mesh.databinding.NodelistFragmentBinding
+com/geeksville/mesh/databinding/ChannelFragmentBinding.java
+ com.geeksville.mesh.databinding.ChannelFragmentBinding
+com/geeksville/mesh/databinding/SettingsFragmentBinding.java
+ com.geeksville.mesh.databinding.SettingsFragmentBinding
+com/geeksville/mesh/databinding/MessagesFragmentBinding.java
+ com.geeksville.mesh.databinding.MessagesFragmentBinding
+com/geeksville/mesh/databinding/AdapterNodeLayoutBinding.java
+ com.geeksville.mesh.databinding.AdapterNodeLayoutBinding
+com/geeksville/mesh/database/dao/PacketDao_Impl.java
+ com.geeksville.mesh.database.dao.PacketDao_Impl
+ com.geeksville.mesh.database.dao.PacketDao_Impl$1
+ com.geeksville.mesh.database.dao.PacketDao_Impl$2
+ com.geeksville.mesh.database.dao.PacketDao_Impl$3
+com/geeksville/mesh/databinding/AdapterPacketLayoutBinding.java
+ com.geeksville.mesh.databinding.AdapterPacketLayoutBinding
+com/geeksville/mesh/databinding/ActivityMainBinding.java
+ com.geeksville.mesh.databinding.ActivityMainBinding
