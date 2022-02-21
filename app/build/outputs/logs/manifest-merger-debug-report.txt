@@ -1,0 +1,1164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+MERGED from [androidx.databinding:viewbinding:4.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/fa4db0cdb96343fbe64c10d624780dbb/transformed/jetified-viewbinding-4.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [:geeksville-androidlib] /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/geeksville-androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.room:room-ktx:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1d1684465173753cdfaa9274e2c998ca/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/6e5b21051f2b0d8e2a94b263ed5fc196/transformed/work-runtime-ktx-2.7.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0be3e080fd3db8ef94d2b4c8d086d3f1/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/41680c5a44122b3f67f6ec8dab1040bc/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/20eed8ec9771d2565114dafee6027643/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b9a432809c64f5b881dc0049f412e87f/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8b55be44b61498c80a8f26f2c0c2cb8d/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b6dbd83d16ed2bd9fd6efff258691b72/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/437893f80bff0eb9279667a22a6cd074/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.vorlonsoft:androidrate:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/AndroidManifest.xml:7:1-18:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a72adb276c6388e59c744b9bb7b73db5/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/82a89914174e12a2d38a8a95ee2b202f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae1ed494351adfef7c604b17907e2254/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad044e90dbded437df4957c23fee6797/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/19be4c99e02c00bc5021734cb3bb68d1/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/981e353fc2529b65c0b10eb5657a556a/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/40f538d5068434e59db1f836260aae73/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7a36a04f541aa8878f70e12c9b4a4080/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/958b676da828269b6be3635cb719d731/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/22c70b752154e8e5a97945b5d5f12917/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/474b303fbe09383090e1fbf53095de91/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5ec5a5d38d7d651bc978dd60c472fb83/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f084dd1796e9d7636b9c43fefb3954e9/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7d64844bdef3bb5aa95fa35dea75c7d9/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/36ddb1f35776e89a18c1ab25ef3155dc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d1b45ac71a62aba90fd539267165cf08/transformed/fragment-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/19200da6a9ae1aadcc58324b13e26e70/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/86773646d95318a9b80437ea5f3157ad/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0a0ad63d4f4c4db32c90d11672510d06/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.mik3y:usb-serial-for-android:v3.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/35deced315a283494eb0a5c86f03315c/transformed/jetified-usb-serial-for-android-v3.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:2:1-29:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.activity:activity:1.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f4a24e233b8daf8500acf0f62cab2c14/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2e30f3a3818dc3e0aa63e0dd91d063ad/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f10cdda3d955377bd74f0e85d5402faa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f7994182911251923ff76c04a5252d98/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5cf41bfe9d64f4388e2fb578b95931f2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3fb7bcb6919ac63cf80b909d76c9f5ec/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/129db24dc6553bc273cf997ac820e107/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e87de6090ceb1f96ed5fe817a1c45f5c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/67b815682ed3a87afefd45895f6e3a4b/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a2612a71b93ee7c08c43bb2d090952e9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/61da1c4adebb9f951ddebe63edb0342c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a08c5a6897540b7e4a45cd344f8f7585/transformed/jetified-mapbox-android-gestures-0.7.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0b7285550dbf3fd683e606d53844e483/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d27240618865417af002363d0e1f5b1b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/145c35d118e031e4e7e11a157134ce1e/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/079e76d82b5158ee0ad9b325b3fc2c15/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1616b0573a68f0650945b4a9b72c27c8/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/68f1df108a453087aa75498543f42b99/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ac089b1da236623fb4f5f8cdd2ea1be4/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1bf0ac2278ef90b04cc34c901d40687d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/4b8cde1752d39a046ab8dfb9a0de3072/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/42c45d90568a7b7a335979d958a003bc/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/cb6756e0d31faa4e446a84f0cded550a/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/110d1b914feeeb84e4ee65b9ef21d0cf/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/295f7f6b3adebd2f091b81280125628b/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a92b4314bec27c78d5fbc7f7c332c9cf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/37e802169128dfd07de0a291539b8ad5/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1713e7309ca930da386d5452a0ec3ba0/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/aa7aade998a8486871e0621e481942d5/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/29dc796fbf19664bd6d3fc75f24fcdb9/transformed/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/100f31c9b55f1a334f8b743c1672e317/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a46d79e02df520e9c7b8ff2202715864/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12e4b9cf429d60c7cd2777cd6423ffce/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12dda7c66e32a7844750a999d4b0677e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d3c0b5b2808c5700b863ce721ff12aef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/06e344f948fba5fb3fb63cff6e5c88f0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1417da4cfc1662860b2edb56fdd5cfab/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b5e44de76e24f751b54c589411589952/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9809e2e40bd274b617a5a8230a851034/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/c808eacc5feaf5a266b3b22784d3c835/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/107d597203c80ad9edd4bb9c4937d4fa/transformed/jetified-mapbox-android-core-3.1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+	package
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:1-188:12
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:5:5-44
+uses-feature#android.hardware.location
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:9:9-49
+uses-feature#android.hardware.location.gps
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:12:9-53
+uses-sdk
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:5-73
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:5-73
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:5-73
+MERGED from [androidx.databinding:viewbinding:4.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/fa4db0cdb96343fbe64c10d624780dbb/transformed/jetified-viewbinding-4.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/fa4db0cdb96343fbe64c10d624780dbb/transformed/jetified-viewbinding-4.1.2/AndroidManifest.xml:20:5-44
+MERGED from [:geeksville-androidlib] /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/geeksville-androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:geeksville-androidlib] /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/geeksville-androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.room:room-ktx:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1d1684465173753cdfaa9274e2c998ca/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1d1684465173753cdfaa9274e2c998ca/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/6e5b21051f2b0d8e2a94b263ed5fc196/transformed/work-runtime-ktx-2.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/6e5b21051f2b0d8e2a94b263ed5fc196/transformed/work-runtime-ktx-2.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0be3e080fd3db8ef94d2b4c8d086d3f1/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0be3e080fd3db8ef94d2b4c8d086d3f1/transformed/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/41680c5a44122b3f67f6ec8dab1040bc/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/41680c5a44122b3f67f6ec8dab1040bc/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/20eed8ec9771d2565114dafee6027643/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/20eed8ec9771d2565114dafee6027643/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b9a432809c64f5b881dc0049f412e87f/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b9a432809c64f5b881dc0049f412e87f/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8b55be44b61498c80a8f26f2c0c2cb8d/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8b55be44b61498c80a8f26f2c0c2cb8d/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b6dbd83d16ed2bd9fd6efff258691b72/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b6dbd83d16ed2bd9fd6efff258691b72/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/437893f80bff0eb9279667a22a6cd074/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/437893f80bff0eb9279667a22a6cd074/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.vorlonsoft:androidrate:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.vorlonsoft:androidrate:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a72adb276c6388e59c744b9bb7b73db5/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a72adb276c6388e59c744b9bb7b73db5/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/82a89914174e12a2d38a8a95ee2b202f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/82a89914174e12a2d38a8a95ee2b202f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae1ed494351adfef7c604b17907e2254/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae1ed494351adfef7c604b17907e2254/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad044e90dbded437df4957c23fee6797/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad044e90dbded437df4957c23fee6797/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/19be4c99e02c00bc5021734cb3bb68d1/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/19be4c99e02c00bc5021734cb3bb68d1/transformed/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/981e353fc2529b65c0b10eb5657a556a/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/981e353fc2529b65c0b10eb5657a556a/transformed/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/40f538d5068434e59db1f836260aae73/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/40f538d5068434e59db1f836260aae73/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7a36a04f541aa8878f70e12c9b4a4080/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7a36a04f541aa8878f70e12c9b4a4080/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/958b676da828269b6be3635cb719d731/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/958b676da828269b6be3635cb719d731/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/22c70b752154e8e5a97945b5d5f12917/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/22c70b752154e8e5a97945b5d5f12917/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/474b303fbe09383090e1fbf53095de91/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/474b303fbe09383090e1fbf53095de91/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5ec5a5d38d7d651bc978dd60c472fb83/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5ec5a5d38d7d651bc978dd60c472fb83/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f084dd1796e9d7636b9c43fefb3954e9/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f084dd1796e9d7636b9c43fefb3954e9/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7d64844bdef3bb5aa95fa35dea75c7d9/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7d64844bdef3bb5aa95fa35dea75c7d9/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/36ddb1f35776e89a18c1ab25ef3155dc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/36ddb1f35776e89a18c1ab25ef3155dc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d1b45ac71a62aba90fd539267165cf08/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d1b45ac71a62aba90fd539267165cf08/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/19200da6a9ae1aadcc58324b13e26e70/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/19200da6a9ae1aadcc58324b13e26e70/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/86773646d95318a9b80437ea5f3157ad/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/86773646d95318a9b80437ea5f3157ad/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0a0ad63d4f4c4db32c90d11672510d06/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0a0ad63d4f4c4db32c90d11672510d06/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.mik3y:usb-serial-for-android:v3.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/35deced315a283494eb0a5c86f03315c/transformed/jetified-usb-serial-for-android-v3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.mik3y:usb-serial-for-android:v3.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/35deced315a283494eb0a5c86f03315c/transformed/jetified-usb-serial-for-android-v3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f4a24e233b8daf8500acf0f62cab2c14/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f4a24e233b8daf8500acf0f62cab2c14/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2e30f3a3818dc3e0aa63e0dd91d063ad/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2e30f3a3818dc3e0aa63e0dd91d063ad/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f10cdda3d955377bd74f0e85d5402faa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f10cdda3d955377bd74f0e85d5402faa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f7994182911251923ff76c04a5252d98/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f7994182911251923ff76c04a5252d98/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5cf41bfe9d64f4388e2fb578b95931f2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5cf41bfe9d64f4388e2fb578b95931f2/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3fb7bcb6919ac63cf80b909d76c9f5ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3fb7bcb6919ac63cf80b909d76c9f5ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/129db24dc6553bc273cf997ac820e107/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/129db24dc6553bc273cf997ac820e107/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e87de6090ceb1f96ed5fe817a1c45f5c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e87de6090ceb1f96ed5fe817a1c45f5c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/67b815682ed3a87afefd45895f6e3a4b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/67b815682ed3a87afefd45895f6e3a4b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a2612a71b93ee7c08c43bb2d090952e9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a2612a71b93ee7c08c43bb2d090952e9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/61da1c4adebb9f951ddebe63edb0342c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/61da1c4adebb9f951ddebe63edb0342c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a08c5a6897540b7e4a45cd344f8f7585/transformed/jetified-mapbox-android-gestures-0.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a08c5a6897540b7e4a45cd344f8f7585/transformed/jetified-mapbox-android-gestures-0.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0b7285550dbf3fd683e606d53844e483/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/0b7285550dbf3fd683e606d53844e483/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d27240618865417af002363d0e1f5b1b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d27240618865417af002363d0e1f5b1b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/145c35d118e031e4e7e11a157134ce1e/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/145c35d118e031e4e7e11a157134ce1e/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/079e76d82b5158ee0ad9b325b3fc2c15/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/079e76d82b5158ee0ad9b325b3fc2c15/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1616b0573a68f0650945b4a9b72c27c8/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1616b0573a68f0650945b4a9b72c27c8/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/68f1df108a453087aa75498543f42b99/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/68f1df108a453087aa75498543f42b99/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ac089b1da236623fb4f5f8cdd2ea1be4/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ac089b1da236623fb4f5f8cdd2ea1be4/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1bf0ac2278ef90b04cc34c901d40687d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1bf0ac2278ef90b04cc34c901d40687d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/4b8cde1752d39a046ab8dfb9a0de3072/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/4b8cde1752d39a046ab8dfb9a0de3072/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/42c45d90568a7b7a335979d958a003bc/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/42c45d90568a7b7a335979d958a003bc/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/cb6756e0d31faa4e446a84f0cded550a/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/cb6756e0d31faa4e446a84f0cded550a/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/110d1b914feeeb84e4ee65b9ef21d0cf/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/110d1b914feeeb84e4ee65b9ef21d0cf/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/295f7f6b3adebd2f091b81280125628b/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/295f7f6b3adebd2f091b81280125628b/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a92b4314bec27c78d5fbc7f7c332c9cf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a92b4314bec27c78d5fbc7f7c332c9cf/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/37e802169128dfd07de0a291539b8ad5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/37e802169128dfd07de0a291539b8ad5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1713e7309ca930da386d5452a0ec3ba0/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1713e7309ca930da386d5452a0ec3ba0/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/aa7aade998a8486871e0621e481942d5/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/aa7aade998a8486871e0621e481942d5/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/29dc796fbf19664bd6d3fc75f24fcdb9/transformed/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/29dc796fbf19664bd6d3fc75f24fcdb9/transformed/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/100f31c9b55f1a334f8b743c1672e317/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/100f31c9b55f1a334f8b743c1672e317/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a46d79e02df520e9c7b8ff2202715864/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a46d79e02df520e9c7b8ff2202715864/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12e4b9cf429d60c7cd2777cd6423ffce/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12e4b9cf429d60c7cd2777cd6423ffce/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12dda7c66e32a7844750a999d4b0677e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12dda7c66e32a7844750a999d4b0677e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d3c0b5b2808c5700b863ce721ff12aef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d3c0b5b2808c5700b863ce721ff12aef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/06e344f948fba5fb3fb63cff6e5c88f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/06e344f948fba5fb3fb63cff6e5c88f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1417da4cfc1662860b2edb56fdd5cfab/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/1417da4cfc1662860b2edb56fdd5cfab/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b5e44de76e24f751b54c589411589952/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b5e44de76e24f751b54c589411589952/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9809e2e40bd274b617a5a8230a851034/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9809e2e40bd274b617a5a8230a851034/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/c808eacc5feaf5a266b3b22784d3c835/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/c808eacc5feaf5a266b3b22784d3c835/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/107d597203c80ad9edd4bb9c4937d4fa/transformed/jetified-mapbox-android-core-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/107d597203c80ad9edd4bb9c4937d4fa/transformed/jetified-mapbox-android-core-3.1.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:5-73
+INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:5-73
+	tools:overrideLibrary
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:15-70
+	android:targetSdkVersion
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:5-73
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:16:5-73
+		INJECTED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:19:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:21:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:22:5-85
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:22:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:12:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:29:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:16:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:36:5-79
+MERGED from [:geeksville-androidlib] /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/geeksville-androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:geeksville-androidlib] /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/geeksville-androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7c6d0e9a84bdad62c05af35bb1a94bcb/transformed/jetified-play-services-measurement-sdk-api-20.0.0/AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/107d597203c80ad9edd4bb9c4937d4fa/transformed/jetified-mapbox-android-core-3.1.0/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/107d597203c80ad9edd4bb9c4937d4fa/transformed/jetified-mapbox-android-core-3.1.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:39:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:42:5-77
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:42:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:45:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:45:22-78
+uses-permission#android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:48:5-94
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:48:22-91
+uses-permission#android.permission.REQUEST_COMPANION_USE_DATA_IN_BACKGROUND
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:49:5-99
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:49:22-96
+uses-permission#android.permission.CAMERA
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:55:5-57:31
+REJECTED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:22:5-65
+	tools:node
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:57:9-28
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:56:9-49
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:59:5-61:36
+	android:required
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:61:9-33
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:60:9-53
+uses-feature#android.software.companion_device_setup
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:64:5-66:36
+	android:required
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:66:9-33
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:65:9-63
+uses-feature#android.hardware.usb.host
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:69:5-71:36
+	android:required
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:71:9-33
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:70:9-49
+application
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:74:5-186:19
+MERGED from [:geeksville-androidlib] /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/geeksville-androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-16:19
+MERGED from [:geeksville-androidlib] /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/geeksville-androidlib/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-16:19
+MERGED from [com.google.android.material:material:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b6dbd83d16ed2bd9fd6efff258691b72/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/b6dbd83d16ed2bd9fd6efff258691b72/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/437893f80bff0eb9279667a22a6cd074/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/437893f80bff0eb9279667a22a6cd074/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [com.vorlonsoft:androidrate:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/AndroidManifest.xml:16:5-55
+MERGED from [com.vorlonsoft:androidrate:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/AndroidManifest.xml:16:5-55
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae1ed494351adfef7c604b17907e2254/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae1ed494351adfef7c604b17907e2254/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad044e90dbded437df4957c23fee6797/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad044e90dbded437df4957c23fee6797/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/40f538d5068434e59db1f836260aae73/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/40f538d5068434e59db1f836260aae73/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7a36a04f541aa8878f70e12c9b4a4080/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7a36a04f541aa8878f70e12c9b4a4080/transformed/jetified-firebase-analytics-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/22c70b752154e8e5a97945b5d5f12917/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/22c70b752154e8e5a97945b5d5f12917/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/474b303fbe09383090e1fbf53095de91/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/474b303fbe09383090e1fbf53095de91/transformed/jetified-play-services-measurement-sdk-20.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5ec5a5d38d7d651bc978dd60c472fb83/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/5ec5a5d38d7d651bc978dd60c472fb83/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f084dd1796e9d7636b9c43fefb3954e9/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f084dd1796e9d7636b9c43fefb3954e9/transformed/jetified-play-services-measurement-base-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7d64844bdef3bb5aa95fa35dea75c7d9/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/7d64844bdef3bb5aa95fa35dea75c7d9/transformed/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/36ddb1f35776e89a18c1ab25ef3155dc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/36ddb1f35776e89a18c1ab25ef3155dc/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:46:5-54:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/145c35d118e031e4e7e11a157134ce1e/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/145c35d118e031e4e7e11a157134ce1e/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/4b8cde1752d39a046ab8dfb9a0de3072/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/4b8cde1752d39a046ab8dfb9a0de3072/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12dda7c66e32a7844750a999d4b0677e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12dda7c66e32a7844750a999d4b0677e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/145c35d118e031e4e7e11a157134ce1e/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:81:9-35
+	android:label
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:79:9-41
+	android:hardwareAccelerated
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:82:9-43
+	android:roundIcon
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:80:9-62
+	android:icon
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:78:9-51
+		REJECTED from [com.vorlonsoft:androidrate:1.2.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/e6ee22338d12e4de2155bf9001cacb11/transformed/jetified-androidrate-1.2.1/AndroidManifest.xml:16:18-52
+	android:allowBackup
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:77:9-35
+	android:theme
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:83:9-40
+	tools:replace
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:75:9-37
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:76:9-63
+meta-data#com.mixpanel.android.MPConfig.DisableViewCrawler
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:85:9-87:36
+	android:value
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:87:13-33
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:86:13-76
+meta-data#firebase_crashlytics_collection_enabled
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:90:9-92:37
+	android:value
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:92:13-34
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:91:13-67
+meta-data#firebase_analytics_collection_enabled
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:93:9-95:37
+	android:value
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:95:13-34
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:94:13-65
+service#com.geeksville.mesh.service.SoftwareUpdateService
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:98:9-102:72
+	android:enabled
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:100:13-35
+	android:exported
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:101:13-37
+	android:permission
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:102:13-69
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:99:13-77
+service#com.geeksville.mesh.service.MeshService
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:105:9-112:19
+	android:enabled
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:107:13-35
+	android:exported
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:108:13-36
+	tools:ignore
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:108:37-68
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:106:13-67
+intent-filter#action:name:com.geeksville.mesh.Service
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:109:13-111:29
+action#com.geeksville.mesh.Service
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:110:17-70
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:110:25-67
+service#com.geeksville.mesh.service.RadioInterfaceService
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:115:9-118:40
+	android:enabled
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:117:13-35
+	android:exported
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:118:13-37
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:116:13-77
+activity#com.geeksville.mesh.MainActivity
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:120:9-161:20
+	android:screenOrientation
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:122:13-45
+	android:windowSoftInputMode
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:124:13-60
+	android:theme
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:125:13-44
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:121:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:126:13-130:29
+action#android.intent.action.MAIN
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:127:17-69
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:127:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:129:17-77
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:129:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.meshtastic.org+data:host:www.meshtastic.org+data:pathPrefix:/D/+data:pathPrefix:/d/+data:scheme:https+data:scheme:https
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:132:13-151:29
+	android:autoVerify
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:132:28-53
+action#android.intent.action.VIEW
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:138:17-69
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:138:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:140:17-76
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:140:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:141:17-78
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:141:27-75
+data
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:143:17-146:48
+	android:host
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:145:21-54
+	android:scheme
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:144:21-43
+	android:pathPrefix
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:146:21-45
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:153:13-155:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:154:17-90
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:154:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:158:13-160:57
+	android:resource
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:160:17-54
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:159:17-79
+receiver#com.geeksville.mesh.service.BootCompleteReceiver
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:163:9-185:20
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:163:19-82
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.geeksville.mesh.SIM_BOOT+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:165:13-175:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:168:17-79
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:168:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:169:17-82
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:169:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:171:17-82
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:171:25-79
+action#com.geeksville.mesh.SIM_BOOT
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:174:17-71
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:174:25-68
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:178:13-184:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:179:17-84
+	android:name
+		ADDED from /home/bahari/MyWorks/sourceCode/Meshtastic/Meshtastic-Android/app/src/main/AndroidManifest.xml:179:25-81
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:12:5-14:36
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:42:5-44:36
+MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:42:5-44:36
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:12:5-14:36
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:13:9-45
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk-gl-core:5.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dbc9227020cabc8f6f97fb1dd7ec27ef/transformed/jetified-mapbox-android-sdk-gl-core-5.2.0/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a493b3d68ad57d0cd9f38a231f953735/transformed/jetified-mapbox-android-sdk-9.6.0/AndroidManifest.xml:18:22-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/3f1bcfe1aff5dc8c0960166ff1d74aa9/transformed/jetified-play-services-auth-19.2.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/f433ac9537560a9c228d4528feb53d3b/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:17:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.4] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/eeacad8bbb415521200c114bcf3f56ed/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:19:17-115
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/746e35d743e011a6e3d3c53c4ff7b763/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/8f2c118d80e7212ca40a58b209622e24/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ad0ff2c59b3bec843b9f1063bed4046d/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/34271d8b06692b613a114961e8b5095d/transformed/jetified-play-services-measurement-impl-20.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/a764465a71c0cc2369dd977e48947991/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/d5d89459a656d29e706b27b303cac62c/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12dda7c66e32a7844750a999d4b0677e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/12dda7c66e32a7844750a999d4b0677e/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ebfa97d74f4d7b8889bc8d96fc72a1b6/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/bb1e5cf157ec523acc7b6ba0b99807bd/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:20:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:19:13-93
+service#com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:24:9-26:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.2.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/dd832e8c71c3d6668261f6cced07dc73/transformed/jetified-mapbox-android-telemetry-6.2.0/AndroidManifest.xml:25:13-93
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:40:9-57
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/2f31fa3bd6cc8cf86e06265ca74ac0cf/transformed/jetified-zxing-android-embedded-4.3.0/AndroidManifest.xml:48:13-74
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/9b3802bd83eddd2ab7b994960c86bf0a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/ae30222fc572b7be43a0f013fa82e5ec/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/81360b573b33d938de337baf2f80caa5/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/bahari/Downloads/Meshtastic-Android-1.2.45/gradle/caches/transforms-3/15d936685b16c254eb9d0b9cb0a21c5f/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:33:13-132
