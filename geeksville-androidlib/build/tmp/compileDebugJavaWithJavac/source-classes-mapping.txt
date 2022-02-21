@@ -1,0 +1,2 @@
+com/geeksville/andlib/BuildConfig.java
+ com.geeksville.andlib.BuildConfig
